@@ -1,0 +1,11 @@
+{
+  "frame_count": 600,
+  "detected_frame_count": 600,
+  "sim_duration_s": 19.966666666666818,
+  "fps": 14024.176632524548,
+  "current_error_mrad": 4.154433638446012,
+  "avg_error_mrad": 3.063007800544841,
+  "max_error_mrad": 45.391015323858646,
+  "lock_retention_rate": 0.22,
+  "acquisition_time_s": 1.2000000000000004
+}

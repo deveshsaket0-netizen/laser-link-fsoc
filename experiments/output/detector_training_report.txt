@@ -1,0 +1,14 @@
+Accuracy: 0.9844
+
+              precision    recall  f1-score   support
+
+ noise/other       0.98      1.00      0.99       360
+      beacon       1.00      0.95      0.97       153
+
+    accuracy                           0.98       513
+   macro avg       0.99      0.97      0.98       513
+weighted avg       0.98      0.98      0.98       513
+
+Confusion matrix:
+[[360   0]
+ [  8 145]]

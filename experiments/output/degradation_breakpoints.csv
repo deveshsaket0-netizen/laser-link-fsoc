@@ -1,0 +1,7 @@
+motion_profile,breaks_at,lock_rate_at_severe
+circular,never (within tested range),0.8693333333333333
+linear,severe,0.6795555555555556
+lissajous,clean,0.14666666666666667
+random_walk,severe,0.7742222222222221
+stationary,never (within tested range),0.928888888888889
+sudden,clean,0.5533333333333333
